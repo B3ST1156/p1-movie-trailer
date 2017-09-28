@@ -2,17 +2,20 @@
 /*My Awesome Styling*/
 
 h1 {
-  color: teal;
+  color: white;
   
 /*  Progressive enhancement & Graceful degridation  */
 
 } 
 
-.word1 {
-  color: teal;
+#video {
+  position: relative;
+  background: transparent;
 }
 
+
 body {
-    background: purple;
+    background: gray;
+    opacity: 75%;
 }
 
