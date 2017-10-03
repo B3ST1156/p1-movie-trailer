@@ -28,3 +28,7 @@
 * lots of adjectives? 
  
  Ironic, comedic, satireical, redneck, hands-on, DIY, Proud, laidback, non-intrusive, welcoming, masculine, outdoors, canadian, rustic, cabinlife, camping, survival, Action, motion, fun, entertaining, goofy, overthetop, rediculous, serious, real-life, adventureous, wild, crazy, out of this world...
+ 
+ Did this get noticed? 
+ 
+ what about this? 
