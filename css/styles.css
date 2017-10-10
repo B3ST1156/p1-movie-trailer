@@ -1,21 +1,18 @@
-/* Presentation  */ 
+/* Presentation  */
 /*My Awesome Styling*/
-
+/* line 4, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
 h1 {
   color: white;
-  
-/*  Progressive enhancement & Graceful degridation  */
+  /*  Progressive enhancement & Graceful degridation  */ }
 
-} 
-
+/* line 11, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
 #video {
   position: relative;
-  background: transparent;
-}
+  background: transparent; }
 
-
+/* line 17, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
 body {
-    background: gray;
-    opacity: 75%;
-}
+  background: gray;
+  opacity: 75%; }
 
+/*# sourceMappingURL=styles.css.map */
