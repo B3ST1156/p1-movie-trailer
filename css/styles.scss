@@ -1,6 +1,18 @@
 /* Presentation  */ 
 /*My Awesome Styling*/
 // added sass 
+
+//this makes it easy to load pages by linking to only one style sheet 
+
+@import 'normalize';
+@import 'mediaelementplayer';
+
+
+
+
+
+
+
 h1 {
   color: white;
   
@@ -20,6 +32,10 @@ body {
 }
 
 $bg : red;
+
+// lettering styles 
+
+
 
 
 
