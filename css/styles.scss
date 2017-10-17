@@ -31,10 +31,7 @@ p {
     color: white;
 }
 
-#video {
-  position: relative;
-  background: transparent;
-}
+
 
 
 body {
@@ -43,6 +40,23 @@ body {
 }
 
 $bg : red;
+
+
+// layout... 
+
+.page {
+    display: flex;
+}
+
+header,
+section,
+main,
+article,
+aside,
+footer {
+    flex: 1;
+}
+
 
 // lettering styles 
 

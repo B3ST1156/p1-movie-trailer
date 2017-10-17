@@ -1136,14 +1136,22 @@ p {
   font-size: 3em;
   color: white; }
 
-/* line 34, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
-#video {
-  position: relative;
-  background: transparent; }
-
-/* line 40, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
+/* line 37, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
 body {
   background: gray;
   opacity: 75%; }
+
+/* line 47, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
+.page {
+  display: flex; }
+
+/* line 51, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
+header,
+section,
+main,
+article,
+aside,
+footer {
+  flex: 1; }
 
 /*# sourceMappingURL=styles.css.map */
