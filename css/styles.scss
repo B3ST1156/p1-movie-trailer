@@ -6,6 +6,7 @@
 
 @import 'normalize';
 @import 'mediaelementplayer';
+@import url('https://fonts.googleapis.com/css?family=Nosifer');
 
 
 
@@ -15,7 +16,7 @@
 
 h1 {
   color: white;
-  
+  font-family: 'nosifer';
 /*  Progressive enhancement & Graceful degridation  */
 
 } 
