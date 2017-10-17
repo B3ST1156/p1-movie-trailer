@@ -6,8 +6,7 @@
 
 @import 'normalize';
 @import 'mediaelementplayer';
-@import url('https://fonts.googleapis.com/css?family=Nosifer');
-
+@import url('https://fonts.googleapis.com/css?family=Modak|Nosifer');
 
 
 
@@ -16,10 +15,21 @@
 
 h1 {
   color: white;
+  font-size: 10em;
   font-family: 'nosifer';
 /*  Progressive enhancement & Graceful degridation  */
 
 } 
+
+span.word2 {
+    color: red;
+}
+
+p {
+    font-family: 'Modak';
+    font-size: 3em;
+    color: white;
+}
 
 #video {
   position: relative;

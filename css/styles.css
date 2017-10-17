@@ -8,7 +8,7 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
-@import url("https://fonts.googleapis.com/css?family=Nosifer");
+@import url("https://fonts.googleapis.com/css?family=Modak|Nosifer");
 /* line 12, /Users/Joshuabest/Desktop/p1-movie-trailer/css/_normalize.css */
 html {
   line-height: 1.15;
@@ -1119,18 +1119,29 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
   display: block; }
 
 /* End: Error */
-/* line 17, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
+/* line 16, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
 h1 {
   color: white;
+  font-size: 10em;
   font-family: 'nosifer';
   /*  Progressive enhancement & Graceful degridation  */ }
 
 /* line 24, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
+span.word2 {
+  color: red; }
+
+/* line 28, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
+p {
+  font-family: 'Modak';
+  font-size: 3em;
+  color: white; }
+
+/* line 34, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
 #video {
   position: relative;
   background: transparent; }
 
-/* line 30, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
+/* line 40, /Users/Joshuabest/Desktop/p1-movie-trailer/css/styles.scss */
 body {
   background: gray;
   opacity: 75%; }
