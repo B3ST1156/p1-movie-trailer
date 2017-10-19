@@ -4,13 +4,12 @@
 
 //this makes it easy to load pages by linking to only one style sheet 
 
-@import 'normalize';
-@import 'mediaelementplayer';
+@import "normalize";
+@import "grid";
+@import "mediaelementplayer";
+@import "main";
+@import "media-queries";
 @import url('https://fonts.googleapis.com/css?family=Modak|Nosifer');
-
-
-
-
 
 
 h1 {
