@@ -1131,7 +1131,42 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
   display: block; }
 
 /* End: Error */
-/* line 8, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/_main.scss */
+/* line 3, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/_main.scss */
+h1 {
+  color: white;
+  font-size: 10em;
+  font-family: 'nosifer';
+  /*  Progressive enhancement & Graceful degridation  */ }
+
+/* line 11, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/_main.scss */
+span.word2 {
+  color: red; }
+
+/* line 15, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/_main.scss */
+p {
+  font-family: 'Modak';
+  font-size: 3em;
+  color: white; }
+
+/* line 24, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/_main.scss */
+body {
+  background: gray;
+  opacity: 75%; }
+
+/* line 34, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/_main.scss */
+.page {
+  display: flex; }
+
+/* line 38, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/_main.scss */
+header,
+section,
+main,
+article,
+aside,
+footer {
+  flex: 1; }
+
+/* line 62, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/_main.scss */
 video {
   max-width: 100%;
   width: 100%; }
@@ -1176,40 +1211,5 @@ video {
   body:before {
     background: yellow;
     content: "Desktop Size"; } }
-
-/* line 15, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/styles.scss */
-h1 {
-  color: white;
-  font-size: 10em;
-  font-family: 'nosifer';
-  /*  Progressive enhancement & Graceful degridation  */ }
-
-/* line 23, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/styles.scss */
-span.word2 {
-  color: red; }
-
-/* line 27, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/styles.scss */
-p {
-  font-family: 'Modak';
-  font-size: 3em;
-  color: white; }
-
-/* line 36, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/styles.scss */
-body {
-  background: gray;
-  opacity: 75%; }
-
-/* line 46, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/styles.scss */
-.page {
-  display: flex; }
-
-/* line 50, /Users/Joshuabest/Desktop/p1-movie-trailer/scss/styles.scss */
-header,
-section,
-main,
-article,
-aside,
-footer {
-  flex: 1; }
 
 /*# sourceMappingURL=styles.css.map */

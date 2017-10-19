@@ -10,55 +10,7 @@
 @import "main";
 @import "media-queries";
 @import url('https://fonts.googleapis.com/css?family=Modak|Nosifer');
-
-
-h1 {
-  color: white;
-  font-size: 10em;
-  font-family: 'nosifer';
-/*  Progressive enhancement & Graceful degridation  */
-
-} 
-
-span.word2 {
-    color: red;
-}
-
-p {
-    font-family: 'Modak';
-    font-size: 3em;
-    color: white;
-}
-
-
-
-
-body {
-    background: gray;
-    opacity: 75%;
-}
-
-$bg : red;
-
-
-// layout... 
-
-.page {
-    display: flex;
-}
-
-header,
-section,
-main,
-article,
-aside,
-footer {
-    flex: 1;
-}
-
-
-
-// lettering styles 
+ 
 
 
 
